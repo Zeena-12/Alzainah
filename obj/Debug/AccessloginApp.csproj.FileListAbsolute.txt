@@ -1,0 +1,14 @@
+C:\Users\Toshiba\source\repos\AccessloginApp\AccessloginApp\bin\Debug\AccessloginApp.exe.config
+C:\Users\Toshiba\source\repos\AccessloginApp\AccessloginApp\bin\Debug\AccessloginApp.exe
+C:\Users\Toshiba\source\repos\AccessloginApp\AccessloginApp\bin\Debug\AccessloginApp.pdb
+C:\Users\Toshiba\source\repos\AccessloginApp\AccessloginApp\obj\Debug\AccessloginApp.csprojAssemblyReference.cache
+C:\Users\Toshiba\source\repos\AccessloginApp\AccessloginApp\obj\Debug\AccessloginApp.Form1.resources
+C:\Users\Toshiba\source\repos\AccessloginApp\AccessloginApp\obj\Debug\AccessloginApp.Properties.Resources.resources
+C:\Users\Toshiba\source\repos\AccessloginApp\AccessloginApp\obj\Debug\AccessloginApp.csproj.GenerateResource.cache
+C:\Users\Toshiba\source\repos\AccessloginApp\AccessloginApp\obj\Debug\AccessloginApp.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\source\repos\AccessloginApp\AccessloginApp\obj\Debug\AccessloginApp.exe
+C:\Users\Toshiba\source\repos\AccessloginApp\AccessloginApp\obj\Debug\AccessloginApp.pdb
+C:\Users\Toshiba\source\repos\AccessloginApp\AccessloginApp\obj\Debug\AccessloginApp.Data.resources
+C:\Users\Toshiba\source\repos\AccessloginApp\AccessloginApp\obj\Debug\AccessloginApp.Service.resources
+C:\Users\Toshiba\source\repos\AccessloginApp\AccessloginApp\obj\Debug\AccessloginApp.payAndFinish.resources
+C:\Users\Toshiba\source\repos\AccessloginApp\AccessloginApp\obj\Debug\AccessloginApp.FoodMenu.resources
